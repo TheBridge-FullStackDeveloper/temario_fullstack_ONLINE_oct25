@@ -1,6 +1,6 @@
 ![logotipo de The Bridge](./assets/img/logo.png)
 
-# Desarrollo Web Full Stack Online Oct_24
+# Desarrollo Web Full Stack Online
 
 ### JS, ES6, Frontend, Backend, testing, Deploy. Stack MERN: Mongo, Express, React, Node.js
 
