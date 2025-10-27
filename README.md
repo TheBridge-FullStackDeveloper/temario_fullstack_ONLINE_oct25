@@ -19,22 +19,22 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 # 🗺️ Navegación rápida
 
-- **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#ramp-up)
+- **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#fundamentals)
 
 # 📚 Temario
 
-##### Ramp Up
+##### Fundamentals
 
 ### 🚀 SPRINT 1. HTML y CSS
 
-### [HTML Fundamentos](./01_Ramp_Up/01_html/)
+### [HTML Fundamentos](./01_Fundamentals/01_html/)
 
 - Lenguaje de marcado y lado del cliente
 - Encabezados, párrafos, formato de texto, citas, listas, comentarios
 - Enlaces, tablas y etiquetas multimedia
 - Formularios y etiquetas semánticas
 
-### [CSS](./01_Ramp_Up/02_css/)
+### [CSS](./01_Fundamentals/02_css/)
 
 ### 1. Introducción a CSS
 
