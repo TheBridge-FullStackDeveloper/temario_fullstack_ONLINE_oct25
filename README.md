@@ -20,6 +20,8 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 # 🗺️ Navegación rápida
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#fundamentals)
+- **JS Avanzado** [Sprints 3 a 8](#js_avanzado)
+- [**Clases de refuerzo**](#clases-de-refuerzo)
 
 # 📚 Temario
 
@@ -56,3 +58,20 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Funciones, Condicionales y Objetos
 
 ##### [Volver arriba](#top)
+
+##### Core
+
+### [JS_Avanzado](./02_JavaScript_Avanzado)
+
+### 🚀 SPRINT 3. [JS Avanzado 1](./02_JS_avanzado/sprint_3/)
+
+- Terminal y comandos
+- Git y GitHub
+- DOM, nodos y eventos
+- SetAttribute
+
+##### [Volver arriba](#top)
+
+### Clases de refuerzo
+
+- [**Corrección examen fundamentals**](https://stackblitz.com/edit/examen-rampup-oe7g9ya4?file=index.html,styles.css,script.js)
