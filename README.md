@@ -72,6 +72,13 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 ##### [Volver arriba](#top)
 
+### 🚀 SPRINT 4. [JS Avanzado 2](./02_JS_avanzado/sprint_4/)
+
+- Funciones puras y arrays
+- Métodos de array
+- Fetch
+
 ### Clases de refuerzo
 
 - [**Corrección examen fundamentals**](https://stackblitz.com/edit/examen-rampup-oe7g9ya4?file=index.html,styles.css,script.js)
+- [**Menú desplegable responsive**](https://github.com/TheBridge-FullStackDeveloper/menu-desplegable-solucion-refuerzo)
