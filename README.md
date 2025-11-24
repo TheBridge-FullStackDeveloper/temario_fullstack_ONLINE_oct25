@@ -78,7 +78,17 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Métodos de array
 - Fetch
 
+### 🚀 SPRINT 5. [JS Avanzado 3](./02_JS_avanzado/sprint_5/)
+
+- Destructuring
+- Spread Operator y Rest Operator
+- Bucles avanzados
+  - Foreach, Map, Reduce, Filter
+- localSotrage y sessionStorage
+- Métodos de objeto
+
 ### Clases de refuerzo
 
 - [**Corrección examen fundamentals**](https://stackblitz.com/edit/examen-rampup-oe7g9ya4?file=index.html,styles.css,script.js)
 - [**Menú desplegable responsive**](https://github.com/TheBridge-FullStackDeveloper/menu-desplegable-solucion-refuerzo)
+- [**Buscador dragon ball**](https://github.com/TheBridge-FullStackDeveloper/dragon-ball-characters-app)
