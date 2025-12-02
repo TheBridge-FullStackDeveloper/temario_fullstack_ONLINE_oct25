@@ -87,8 +87,16 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - localSotrage y sessionStorage
 - Métodos de objeto
 
+### 🚀 SPRINT 6. [JS Avanzado 4](./02_JS_avanzado/sprint_6/)
+
+- Asincronía y promesas
+- Async/Await
+- Axios
+- API
+
 ### Clases de refuerzo
 
 - [**Corrección examen fundamentals**](https://stackblitz.com/edit/examen-rampup-oe7g9ya4?file=index.html,styles.css,script.js)
 - [**Menú desplegable responsive**](https://github.com/TheBridge-FullStackDeveloper/menu-desplegable-solucion-refuerzo)
 - [**Buscador dragon ball**](https://github.com/TheBridge-FullStackDeveloper/dragon-ball-characters-app)
+- [**Repaso general JavaScript**](https://github.com/TheBridge-FullStackDeveloper/clase-repaso-general-js-resolved)
