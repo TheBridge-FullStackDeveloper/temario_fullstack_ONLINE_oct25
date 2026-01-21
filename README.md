@@ -119,6 +119,14 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Manejo de Archivos Estáticos
 - Instalación y configuración
 
+### 🚀 SPRINT 11. [API Rest y Fetch / Axios - CORS](./03_Backend/sprint_11/)
+
+- Creación de una API REST con Express.js
+- Definición de Rutas y Métodos
+- Pruebas de la API
+- CRUD
+- CORS
+
 ##### [Volver arriba](#top)
 
 ### Clases de refuerzo
@@ -127,5 +135,9 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - [**Menú desplegable responsive**](https://github.com/TheBridge-FullStackDeveloper/menu-desplegable-solucion-refuerzo)
 - [**Buscador dragon ball**](https://github.com/TheBridge-FullStackDeveloper/dragon-ball-characters-app)
 - [**Repaso general JavaScript**](https://github.com/TheBridge-FullStackDeveloper/clase-repaso-general-js-resolved)
+- [**Node OS**](https://github.com/CarlosDiazGirol/node-os-resuelto)
+- **CRUD y CORS**:
+  - [**Back**](https://github.com/TheBridge-FullStackDeveloper/cors-refuerzo-back)
+  - [**Front**](https://github.com/TheBridge-FullStackDeveloper/cors-refuerzo-front)
 
 ##### [Volver arriba](#top)
