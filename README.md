@@ -127,6 +127,13 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - CRUD
 - CORS
 
+### 🚀 SPRINT 12. [SQL](./03_Backend/sprint_12/)
+
+    - Instalación
+    - SQL Tipos de Datos
+    - MySQL - Estructuras y Consultas Básicas
+    - Consultas y comandos
+
 ##### [Volver arriba](#top)
 
 ### Clases de refuerzo
