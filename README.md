@@ -21,6 +21,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 - **HTML | CSS | JS Fundamentals** [Sprints 1 y 2](#fundamentals)
 - **JS Avanzado** [Sprints 3 a 8](#js_avanzado)
+- **Backend** [Sprints 9 a 14](#backend)
 - [**Clases de refuerzo**](#clases-de-refuerzo)
 
 # 📚 Temario
@@ -129,10 +130,29 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 
 ### 🚀 SPRINT 12. [SQL](./03_Backend/sprint_12/)
 
-    - Instalación
-    - SQL Tipos de Datos
-    - MySQL - Estructuras y Consultas Básicas
-    - Consultas y comandos
+- Instalación
+- SQL Tipos de Datos
+- MySQL - Estructuras y Consultas Básicas
+- Consultas y comandos
+
+### 🚀 SPRINT 13. [TESTING, MongoDB y Mongoose](./03_Backend/sprint_13/)
+
+#### TESTING: Jest
+
+- Qué es Jest
+- Pruebas unitarias
+- Matchers
+- Mocks y Espías Integrados
+- Pruebas Asíncronas
+- Snapshot Testing
+
+#### MongoDB y Mongoose
+
+- Introducción a MongoDB
+- Documentos y Colecciones
+- Mongoose: Modelado de Datos para MongoDB en Node.js
+- Definición de Esquemas y Modelos con Mongoose
+- Operaciones CRUD Básicas con Mongoose
 
 ##### [Volver arriba](#top)
 
@@ -146,5 +166,8 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - **CRUD y CORS**:
   - [**Back**](https://github.com/TheBridge-FullStackDeveloper/cors-refuerzo-back)
   - [**Front**](https://github.com/TheBridge-FullStackDeveloper/cors-refuerzo-front)
+- **Conexión BBDD**:
+  - [SQL](https://github.com/TheBridge-FullStackDeveloper/sql-connect-crud-refuerzo)
+  - [MongoDB](https://github.com/TheBridge-FullStackDeveloper/mongodb-connect-crud-refuerzo)
 
 ##### [Volver arriba](#top)
