@@ -154,6 +154,11 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - Definición de Esquemas y Modelos con Mongoose
 - Operaciones CRUD Básicas con Mongoose
 
+### 🚀 SPRINT 14. [DOCUMENTACIÓN y DEPLOY ](./03_Backend/sprint_14/)
+
+- DOCUMENTACIÓN con Swagger y Swagger UI
+- DEPLOY con Render
+
 ##### [Volver arriba](#top)
 
 ### Clases de refuerzo
