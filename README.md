@@ -171,7 +171,7 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
 - El Hook useState
 - Props
 
-### 🚀 SPRINT 18. [REACT Routing y useEffect ](./04_Frontend/sprint_18/ejercicios.md)
+### 🚀 SPRINT 18. [REACT Routing y useEffect ](./04_Frontend/sprint_18/)
 
 - Routing
   - Componentes: BrowserRouter, Routes, Route, Link, Outlet
@@ -180,17 +180,6 @@ Aprende sobre HTML; CSS, JavaScript, Express, Node JS, React y bases de datos co
   - Componentes controlados y useState
   - Componentes no controlados y DOM
 - Estilos en React
-
-### 🚀 SPRINT 19. [Custom hooks y useContext ](./04_Frontend/sprint_19/ejercicios.md)
-
-- Custom hooks
-- useContext
-
-### 🚀 SPRINT 20. [useRef y Conexión Back y Front ](./04_Frontend/sprint_20/ejercicios.md)
-
-- useRef
-- Conexión Back y Front
-- Despliegue
 
 ##### [Volver arriba](#top)
 
